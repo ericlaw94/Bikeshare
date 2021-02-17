@@ -10,7 +10,8 @@ Citi Bike is New York City’s bike share system, and the largest in the nation.
 
 Citi Bike consists of a fleet of specially designed, sturdy and durable bikes that are locked into a network of docking stations throughout the city. The bikes can be unlocked from one station and returned to any other station in the system, making them ideal for one-way trips. People use bike share to commute to work or school, run errands, get to appointments or social engagements, and more. Citi Bike is available anytime, anyday, and riders have access to thousands of bikes at hundreds of stations across Manhattan, Brooklyn, Queens and Jersey City.
 
-In this project, I will be investigating the year 2020 Citi Bike dataset and how Covid19 pandemic affect the trend of Citi Bike movement.
+In this project, I will be investigating the year 2020 Citi Bike dataset by using Python to perform steps of the data analysis.
+
 
 Note:The dataset can be obtain from here: https://www.citibikenyc.com/system-data which include
 
